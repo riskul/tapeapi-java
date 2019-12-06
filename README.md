@@ -1,5 +1,5 @@
 ## Usage
-
+![HP Streamer](https://1000servers.com/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/h/p/hp-ultrium3-sas_2.jpg)
 1) Write tape like file
 ```java
 try (final FileInputStream ios = new FileInputStream("/dev/nst0")) {
